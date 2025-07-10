@@ -2,7 +2,7 @@
 
 
 
-[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-1211-8191) ![Profile views in 2021](https://gpvc.arturio.dev/JonasReubelt)
+[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-1211-8191) !<!-- [Profile views in 2021](https://gpvc.arturio.dev/JonasReubelt) -->
 
 <!-- [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/XXXXXX) -->
 
